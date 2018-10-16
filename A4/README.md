@@ -2,8 +2,11 @@
 [youtube link](https://www.youtube.com/watch?v=wT1wRR34Pyk)
 
 # Environment
-WIN10, win32d3d9, vs2015, maya2017
-add a A4 level for debugging.
+- WIN10
+- win32d3d9
+- Visual Studio 2015
+- Maya 2017
+- A4 level for debugging.
 
 
 # General Description
