@@ -1,0 +1,15 @@
+\CharacterControl\ClientCharacterControlGame.cpp:initGame()
+	initialize default Tanks(Line:66) and bunches of Imrods(Line:194)
+
+\PrimeEngine\SceneNode\SceneNode.cpp:do_CALCULATE_TRANSFORMATION()
+	get a new worldTransform for the SN
+	
+\PrimeEngine\GameObjectModel\GameObjectManager.cpp:do_CREATE_MESH()
+	initialize each MeshInstance, read from file, set their SceneNode real position
+	SceneNode.addComponent(MeshInstance)
+	do_CREATE_SKELETON() never starts
+	
+\PrimeEngine\Game\Client\ClientGame.cpp:initEngine()::312
+	initialize PrimeEngine, including RootSceneNode
+	add initialization of PhysicsManager
+	
