@@ -331,6 +331,7 @@ void GameObjectManager::do_CREATE_MESH(Events::Event *pEvt)
 
 				PhysicsManager::add(pSN, pRealEvent->m_meshFilename);
 				pSN->m_physicsComponent = PhysicsManager::getLastPhysicsComponentAddress();
+				pSN->m_physicsComponent->m_frictionCoef = pRealEvent->m_frictionCoef;
 			}
 			else
 			{

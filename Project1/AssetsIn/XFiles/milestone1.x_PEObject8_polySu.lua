@@ -11,7 +11,7 @@ args['myScriptPackage']="Default"
 args['lightType'] = "directional"
 args['meshPackage'] = "Default"
 
-args['diffuse'] = {0.8, 0.8, 0.8, 1.0}
+args['diffuse'] = {0.6, 0.6, 0.6, 1.0}
 args['spec'] = {0, 0, 0, 1.0}
 args['ambient'] = {0, 0, 0, 1.0}
 args['attenuation'] = {0, 0, 0} -- does not matter fordirectional light

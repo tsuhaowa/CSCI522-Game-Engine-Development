@@ -11,4 +11,6 @@ args['myScriptPackage']="Default"
 args['meshName'] = "cobbleplane.x_pplaneshape1_mesh.mesha"
 args['meshPackage'] = "Default"
 
+args['frictionCoef'] = "0.5"
+
 end -- required

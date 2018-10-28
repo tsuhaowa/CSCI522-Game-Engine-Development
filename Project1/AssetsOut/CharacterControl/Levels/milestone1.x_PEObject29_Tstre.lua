@@ -11,4 +11,6 @@ args['myScriptPackage']="Default"
 args['meshName'] = "streetlight.x_main_mesh.mesha"
 args['meshPackage'] = "City"
 
+args['frictionCoef'] = "0.5"
+
 end -- required
