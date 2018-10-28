@@ -5,12 +5,16 @@
 
 PhysicsComponent::PhysicsComponent()
 {
+	m_id = 0;
 	m_velocity = 0.0f;
 	m_mass = 0.0f;
 	m_acceleration = 0.0f;
 	m_accelerationOfGravity = 0.8f;
 	m_gravity = 0.0f;
 	m_fallingTime = 0.0f;
+	m_frictionCoef = 0.0f;
+	m_horsepower = 0.0f;
+	m_speedMax = 0.0f;
 	m_collisionCheck = false;
 	m_collisionCount = 0;
 	m_doDodge = false;

@@ -1,0 +1,258 @@
+xof 0303txt 0032
+
+LevelProperties {
+	1;
+}
+Frame PEObject6_pCar {
+	MetaScript {
+		"milestone1.x_PEObject6_pCar.lua"
+	}
+	PEUUID {
+		0x634db4cf, 0xda3c11e8, 0x9ad7309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		0.031286,0.000000,-0.999510,0.000000,-0.000000,1.000000,-0.000000,0.000000,0.999510,0.000000,0.031286,0.000000,2000.000000,0.000000,617.985871,1.000000;;
+	}
+}
+Frame PEObject7_tArrow {
+	MetaScript {
+		"milestone1.x_PEObject7_tArrow.lua"
+	}
+	PEUUID {
+		0x79cd49f0, 0xda3c11e8, 0xbaa8309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		0.110377,0.000000,0.993890,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.993890,-0.000000,0.110377,0.000000,418.342400,0.000000,617.986000,1.000000;;
+	}
+}
+Frame PEObject8_polySurface1 {
+	MetaScript {
+		"milestone1.x_PEObject8_polySu.lua"
+	}
+	PEUUID {
+		0x8c3d985e, 0xda3c11e8, 0xab75309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		0.023697,0.000000,0.999719,0.000000,-0.893557,0.448450,0.021181,0.000000,-0.448324,-0.893808,0.010627,0.000000,1147.010348,402.557205,120.689261,1.000000;;
+	}
+}
+Frame PEObject12_tArrow {
+	MetaScript {
+		"milestone1.x_PEObject12_tArro.lua"
+	}
+	PEUUID {
+		0x34217af0, 0xda4811e8, 0x8278309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		0.136366,0.000000,-0.990658,0.000000,-0.000000,1.000000,-0.000000,0.000000,0.990658,0.000000,0.136366,0.000000,-11742.051950,0.000000,617.986000,1.000000;;
+	}
+}
+Frame PEObject13_tArrow {
+	MetaScript {
+		"milestone1.x_PEObject13_tArro.lua"
+	}
+	PEUUID {
+		0x3e88238f, 0xda4811e8, 0xa664309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		-0.368238,0.000000,0.929732,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.929732,-0.000000,-0.368238,0.000000,1569.087315,0.000000,1833.371565,1.000000;;
+	}
+}
+Frame PEObject18_pCar {
+	MetaScript {
+		"milestone1.x_PEObject18_pCar.lua"
+	}
+	PEUUID {
+		0x634db4cf, 0xda3c11e8, 0x9ad7309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		0.031286,0.000000,-0.999510,0.000000,-0.000000,1.000000,-0.000000,0.000000,0.999510,0.000000,0.031286,0.000000,2000.000000,0.000000,-646.356276,1.000000;;
+	}
+}
+Frame PEObject19_tArrow {
+	MetaScript {
+		"milestone1.x_PEObject19_tArro.lua"
+	}
+	PEUUID {
+		0x79cd49f0, 0xda3c11e8, 0xbaa8309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		0.110377,0.000000,0.993890,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.993890,-0.000000,0.110377,0.000000,384.588524,0.000000,-646.356000,1.000000;;
+	}
+}
+Frame PEObject23_tArrow {
+	MetaScript {
+		"milestone1.x_PEObject23_tArro.lua"
+	}
+	PEUUID {
+		0x34217af0, 0xda4811e8, 0x8278309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		0.136366,0.000000,-0.990658,0.000000,-0.000000,1.000000,-0.000000,0.000000,0.990658,0.000000,0.136366,0.000000,-11775.805826,0.000000,-646.356000,1.000000;;
+	}
+}
+Frame PEObject24_tArrow {
+	MetaScript {
+		"milestone1.x_PEObject24_tArro.lua"
+	}
+	PEUUID {
+		0x3e88238f, 0xda4811e8, 0xa664309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		0.108327,0.000000,0.994115,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.994115,-0.000000,0.108327,0.000000,1663.738372,-0.000000,-1755.252350,1.000000;;
+	}
+}
+Frame PEObject29_Tstreetlight {
+	MetaScript {
+		"milestone1.x_PEObject29_Tstre.lua"
+	}
+	PEUUID {
+		0x0764c630, 0xda6f11e8, 0x9f65309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		1.000000,0.000000,-0.000000,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.000000,-0.000000,1.000000,0.000000,-9419.537515,0.000000,32.501558,1.000000;;
+	}
+}
+Frame PEObject30_TspotRep {
+	MetaScript {
+		"milestone1.x_PEObject30_Tspot.lua"
+	}
+	PEUUID {
+		0x2ef95f80, 0xda6f11e8, 0x9eb3309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		1.000000,0.000000,0.000000,0.000000,-0.000000,0.000000,1.000000,0.000000,-0.000000,-1.000000,0.000000,0.000000,-9419.538000,292.633104,32.502000,1.000000;;
+	}
+}
+Frame PEObject31_pPlane1 {
+	MetaScript {
+		"milestone1.x_PEObject31_pPlan.lua"
+	}
+	PEUUID {
+		0x74cf0300, 0xda7611e8, 0x9e9e309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		1.000000,0.000000,-0.000000,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.000000,-0.000000,1.000000,0.000000,1275.784649,0.000000,1255.842185,1.000000;;
+	}
+}
+Frame PEObject32_pPlane1 {
+	MetaScript {
+		"milestone1.x_PEObject32_pPlan.lua"
+	}
+	PEUUID {
+		0x777e92a1, 0xda7611e8, 0xba20309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		1.000000,0.000000,-0.000000,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.000000,-0.000000,1.000000,0.000000,-1225.837574,0.000000,1250.393653,1.000000;;
+	}
+}
+Frame PEObject33_pPlane1 {
+	MetaScript {
+		"milestone1.x_PEObject33_pPlan.lua"
+	}
+	PEUUID {
+		0x7c5ac640, 0xda7611e8, 0x98d9309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		1.000000,0.000000,-0.000000,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.000000,-0.000000,1.000000,0.000000,-3723.754715,0.000000,1277.234541,1.000000;;
+	}
+}
+Frame PEObject34_pPlane1 {
+	MetaScript {
+		"milestone1.x_PEObject34_pPlan.lua"
+	}
+	PEUUID {
+		0x7fe96b40, 0xda7611e8, 0x8818309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		1.000000,0.000000,-0.000000,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.000000,-0.000000,1.000000,0.000000,-6200.954528,0.000000,1278.503400,1.000000;;
+	}
+}
+Frame PEObject35_pPlane1 {
+	MetaScript {
+		"milestone1.x_PEObject35_pPlan.lua"
+	}
+	PEUUID {
+		0x83b3b9b0, 0xda7611e8, 0x824d309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		1.000000,0.000000,-0.000000,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.000000,-0.000000,1.000000,0.000000,1272.872779,0.000000,-1246.352824,1.000000;;
+	}
+}
+Frame PEObject36_pPlane1 {
+	MetaScript {
+		"milestone1.x_PEObject36_pPlan.lua"
+	}
+	PEUUID {
+		0x95881640, 0xda7611e8, 0xb6cc309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		1.000000,0.000000,-0.000000,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.000000,-0.000000,1.000000,0.000000,-1225.707241,0.000000,-1249.922755,1.000000;;
+	}
+}
+Frame PEObject37_pPlane1 {
+	MetaScript {
+		"milestone1.x_PEObject37_pPlan.lua"
+	}
+	PEUUID {
+		0x9877bc21, 0xda7611e8, 0xbbdb309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		1.000000,0.000000,-0.000000,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.000000,-0.000000,1.000000,0.000000,-3722.304117,0.000000,-1213.769724,1.000000;;
+	}
+}
+Frame PEObject38_pPlane1 {
+	MetaScript {
+		"milestone1.x_PEObject38_pPlan.lua"
+	}
+	PEUUID {
+		0x9b2c2dc0, 0xda7611e8, 0xb096309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		1.000000,0.000000,-0.000000,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.000000,-0.000000,1.000000,0.000000,-6217.348697,0.000000,-1211.627119,1.000000;;
+	}
+}
+Frame PEObject39_pPlane1 {
+	MetaScript {
+		"milestone1.x_PEObject39_pPlan.lua"
+	}
+	PEUUID {
+		0x9f209970, 0xda7611e8, 0xac99309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		1.000000,0.000000,-0.000000,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.000000,-0.000000,1.000000,0.000000,-8705.574470,0.000000,1258.300948,1.000000;;
+	}
+}
+Frame PEObject40_pPlane1 {
+	MetaScript {
+		"milestone1.x_PEObject40_pPlan.lua"
+	}
+	PEUUID {
+		0xa1f58b61, 0xda7611e8, 0x807d309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		1.000000,0.000000,-0.000000,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.000000,-0.000000,1.000000,0.000000,-11186.825637,0.000000,-1259.528971,1.000000;;
+	}
+}
+Frame PEObject41_pPlane1 {
+	MetaScript {
+		"milestone1.x_PEObject41_pPlan.lua"
+	}
+	PEUUID {
+		0xa325a6f0, 0xda7611e8, 0xb637309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		1.000000,0.000000,-0.000000,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.000000,-0.000000,1.000000,0.000000,-8700.621497,-0.000000,-1236.869339,1.000000;;
+	}
+}
+Frame PEObject42_pPlane1 {
+	MetaScript {
+		"milestone1.x_PEObject42_pPlan.lua"
+	}
+	PEUUID {
+		0xa4f2509e, 0xda7611e8, 0xad12309c, 0x23932def
+	}
+	FrameTransformMatrix {
+		1.000000,0.000000,-0.000000,0.000000,0.000000,1.000000,-0.000000,0.000000,-0.000000,-0.000000,1.000000,0.000000,-11188.197459,-0.000000,1243.790500,1.000000;;
+	}
+}

@@ -51,6 +51,7 @@ void PhysicsManager::do_PRE_PHYSICS_UPDATE()
 		else  
 		{
 			// update static Mesh BoundingBoxAfterTransform if they move or transform
+			phyC.buildBoundingVolumeAfterTransform(pMainSN->m_worldTransform);
 		}
 		
 		phyC.m_postMainBase = pMainSN->m_base;

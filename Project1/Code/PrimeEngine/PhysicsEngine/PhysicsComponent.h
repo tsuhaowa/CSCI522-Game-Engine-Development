@@ -31,12 +31,16 @@ struct PhysicsComponent
 
 	Matrix4x4 m_prevMainBase;
 	Matrix4x4 m_postMainBase;
+	int m_id;
 	float m_velocity;
 	float m_mass;
 	float m_acceleration;
 	float m_accelerationOfGravity;
 	float m_gravity;
 	float m_fallingTime;
+	float m_frictionCoef;
+	float m_horsepower;
+	float m_speedMax;
 	bool m_collisionCheck;
 	int m_collisionCount;
 	bool m_doDodge;
