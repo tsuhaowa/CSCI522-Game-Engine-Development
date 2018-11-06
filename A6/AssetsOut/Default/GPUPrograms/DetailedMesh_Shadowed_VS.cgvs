@@ -1,0 +1,41 @@
+#ifndef DETAILEDMESH_VS_cg
+#define DETAILEDMESH_VS_cg
+#define DETAILEDMESH_GLOW_PS
+#include "APIAbstraction.gpu"
+#include "StandardConstants.fx"
+#include "DetailedMesh_Structs.fx"
+
+DETAILED_MESH_SHADOWED_PS_IN DetailedMesh_Shadowed_VS(DETAILED_MESH_VS_IN vIn)
+{
+    DETAILED_MESH_SHADOWED_PS_IN vOut;
+	float3 pos = vIn.iPosL;
+	
+	Matrix WVP = gWVP;
+	Matrix W = gW;
+
+	float3 posWind = pos;
+
+	float windX = gWind0.x * 0.05 + gWind1.x * 0.04 + gWind2.x * 0.05;
+	if(windX > 0.3f) windX = 0.3f;
+	else if(windX < -0.3f) windX = -0.3f;
+	float windZ = gWind0.z * 0.05 + gWind1.z * 0.04 + gWind2.z * 0.05;
+	if(windZ > 0.3f) windZ = 0.3f;
+	else if(windZ < -0.3f) windZ = -0.3f;
+
+	posWind.x += vIn.iTexCoord2.x * windX;
+	posWind.z += vIn.iTexCoord2.x * windZ;
+
+    vOut.iPosH = mul(make_float4(posWind, 1.0), WVP);
+    vOut.iNormalW = mul(make_float4(vIn.iNormal, 0), W).xyz;
+    vOut.iPosW =  mul(make_float4(pos, 1.0), W).xyz;
+    vOut.iTangentW = mul(make_float4(vIn.iTangent, 1.0), W).xyz;
+    vOut.iTexCoord = vIn.iTexCoord;
+	vOut.iTexCoord2 = vIn.iTexCoord2;
+    vOut.iProjTexCoord = mul(make_float4(vOut.iPosW, 1.0), gLightWVP);
+
+    return vOut;
+}
+
+VS_wrapper_DETAILED_MESH_SHADOWED(DetailedMesh_Shadowed_VS)
+
+#endif
