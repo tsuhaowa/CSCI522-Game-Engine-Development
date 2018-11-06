@@ -3,7 +3,7 @@
 
 
 # Demo Video
-[youtube link] (https://youtu.be/yr5fRU57Mxc)
+[youtube link](https://youtu.be/yr5fRU57Mxc)
 
 
 # Environment
