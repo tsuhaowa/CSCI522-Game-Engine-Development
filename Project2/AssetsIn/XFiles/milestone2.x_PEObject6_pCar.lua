@@ -1,0 +1,23 @@
+
+-- this script is in lua format
+-- this is a meta script that fills in data that is passed to 'myScript' that in turn calls C++ function
+-- some of the data can be set by default, some of the data might be required to be edited from maya
+function fillMetaInfoTable(args) -- the script fromat requires existance of this function
+
+-- user modifed data
+args['myScript']="NaziCar.lua"
+args['myScriptPackage']="CharacterControl"
+
+args['meshName'] = "nazicar.x_carmesh_mesh.mesha"
+args['meshPackage'] = "Default"
+
+args['patrolWayPoint'] = "0"
+
+args['carID'] = '0'
+args['frictionCoef'] = "0.5"
+args['mass'] = "1000"
+args['horsepower'] = "8"
+args['torque'] = "3"
+args['speedMax'] = "0.5"
+
+end -- required

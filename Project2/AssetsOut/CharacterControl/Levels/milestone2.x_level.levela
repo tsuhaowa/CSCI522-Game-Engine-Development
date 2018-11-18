@@ -1,0 +1,84 @@
+LevelLoader.CreateGameObject("PEObject101_pkingTiger",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -6476.765763, 0.0, -3107.048599, 1.0, 'milestone2.x_PEObject101_pkin.lua', 'CharacterControl',0xf9afa8cf, 0xe31411e8, 0x8f12309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject89_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -1037.765461, 0.0, -6008.021217, 1.0, 'milestone2.x_PEObject89_pCar.lua', 'CharacterControl',0x7dcb0bb0, 0xe31411e8, 0x8728309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject88_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -2361.478391, 0.0, -4603.040099, 1.0, 'milestone2.x_PEObject88_pCar.lua', 'CharacterControl',0x7c8481ee, 0xe31411e8, 0xaa74309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject109_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -5290.274385, 0.0, -5666.141226, 1.0, 'milestone2.x_PEObject109_pCar.lua', 'CharacterControl',0xebd17030, 0xe31511e8, 0xa60e309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject19_tArrow",0.110377, 0.0, 0.99389, 0.0, 0.0, 1.0, -0.0, 0.0, -0.99389, -0.0, 0.110377, 0.0, 0.0, 0.0, -650.0, 1.0, 'milestone2.x_PEObject19_tArro.lua', 'CharacterControl',0x79cd49f0, 0xda3c11e8, 0xbaa8309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject84_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -1208.170032, 0.0, 4027.233501, 1.0, 'milestone2.x_PEObject84_pCar.lua', 'CharacterControl',0x75860a8f, 0xe31411e8, 0x9dc9309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject98_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -5144.492728, 0.0, 6247.66602, 1.0, 'milestone2.x_PEObject98_pCar.lua', 'CharacterControl',0x8c977f70, 0xe31411e8, 0xaca2309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject82_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -3907.441112, 0.0, -5819.250316, 1.0, 'milestone2.x_PEObject82_pCar.lua', 'CharacterControl',0x72e261cf, 0xe31411e8, 0xa051309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject7_tArrow",0.110377, 0.0, 0.99389, 0.0, 0.0, 1.0, -0.0, 0.0, -0.99389, -0.0, 0.110377, 0.0, 0.0, 0.0, 650.0, 1.0, 'milestone2.x_PEObject7_tArrow.lua', 'CharacterControl',0x79cd49f0, 0xda3c11e8, 0xbaa8309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject12_tArrow",0.136366, 0.0, -0.990658, 0.0, -0.0, 1.0, -0.0, 0.0, 0.990658, 0.0, 0.136366, 0.0, -9700.0, 0.0, 650.0, 1.0, 'milestone2.x_PEObject12_tArro.lua', 'CharacterControl',0x34217af0, 0xda4811e8, 0x8278309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject87_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -1087.941512, 0.0, 6521.366198, 1.0, 'milestone2.x_PEObject87_pCar.lua', 'CharacterControl',0x7a929d00, 0xe31411e8, 0xa05a309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject8_polySurface1",0.023697, 0.0, 0.999719, 0.0, -0.893557, 0.44845, 0.021181, 0.0, -0.448324, -0.893808, 0.010627, 0.0, -2327.398965, 402.557205, -107.278714, 1.0, 'milestone2.x_PEObject8_polySu.lua', 'CharacterControl',0x8c3d985e, 0xda3c11e8, 0xab75309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject108_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -5290.294114, 0.0, -6776.251408, 1.0, 'milestone2.x_PEObject108_pCar.lua', 'CharacterControl',0xe8cfc8ee, 0xe31511e8, 0x8746309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject99_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -7578.384271, 0.0, 4402.144554, 1.0, 'milestone2.x_PEObject99_pCar.lua', 'CharacterControl',0x8ef1ea30, 0xe31411e8, 0x8e63309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject100_pkingTiger",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -10073.818046, 0.0, 3555.765238, 1.0, 'milestone2.x_PEObject100_pkin.lua', 'CharacterControl',0xf6cf6c40, 0xe31411e8, 0xb3a5309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject83_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -3697.705775, 0.0, 2810.013887, 1.0, 'milestone2.x_PEObject83_pCar.lua', 'CharacterControl',0x745504a1, 0xe31411e8, 0xb8f7309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject95_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -2682.252297, 0.0, 4200.417226, 1.0, 'milestone2.x_PEObject95_pCar.lua', 'CharacterControl',0x87906b40, 0xe31411e8, 0xba3d309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject96_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -3363.237961, 0.0, 5978.268429, 1.0, 'milestone2.x_PEObject96_pCar.lua', 'CharacterControl',0x895b191e, 0xe31411e8, 0x97fa309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject93_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -5290.886342, 0.0, -6215.354715, 1.0, 'milestone2.x_PEObject93_pCar.lua', 'CharacterControl',0x84215c30, 0xe31411e8, 0xa3ce309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject111_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -5716.689463, 0.0, 6197.324996, 1.0, 'milestone2.x_PEObject111_pCar.lua', 'CharacterControl',0xf7ad7ac0, 0xe31511e8, 0x9a03309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject23_tArrow",0.136366, 0.0, -0.990658, 0.0, -0.0, 1.0, -0.0, 0.0, 0.990658, 0.0, 0.136366, 0.0, -9700.0, 0.0, -650.0, 1.0, 'milestone2.x_PEObject23_tArro.lua', 'CharacterControl',0x34217af0, 0xda4811e8, 0x8278309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject81_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -3424.132348, 0.0, -3651.70344, 1.0, 'milestone2.x_PEObject81_pCar.lua', 'CharacterControl',0x68adecc0, 0xe31411e8, 0x9333309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject6_pCar",0.031286, 0.0, -0.99951, 0.0, -0.0, 1.0, -0.0, 0.0, 0.99951, 0.0, 0.031286, 0.0, 700.0, 0.0, 650.0, 1.0, 'milestone2.x_PEObject6_pCar.lua', 'CharacterControl',0x634db4cf, 0xda3c11e8, 0x9ad7309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject107_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -7703.519483, 0.0, -6139.500272, 1.0, 'milestone2.x_PEObject107_pCar.lua', 'CharacterControl',0x27f6201e, 0xe31511e8, 0x99fa309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject110_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -5272.655494, 0.0, -4242.151734, 1.0, 'milestone2.x_PEObject110_pCar.lua', 'CharacterControl',0xef74fcc0, 0xe31511e8, 0xbf4d309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject105_transf",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -10422.201781, 0.0, -192.336372, 1.0, 'milestone2.x_PEObject105_tran.lua', 'CharacterControl',0x09c4a21e, 0xe31511e8, 0xa0b9309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject18_pCar",0.031286, 0.0, -0.99951, 0.0, -0.0, 1.0, -0.0, 0.0, 0.99951, 0.0, 0.031286, 0.0, 700.0, 0.0, -650.0, 1.0, 'milestone2.x_PEObject18_pCar.lua', 'CharacterControl',0x634db4cf, 0xda3c11e8, 0x9ad7309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject29_Tstreetlight",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -9420.0, 0.0, -0.0, 1.0, 'milestone2.x_PEObject29_Tstre.lua', 'CharacterControl',0x0764c630, 0xda6f11e8, 0x9f65309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject24_tArrow",0.108327, 0.0, 0.994115, 0.0, 0.0, 1.0, -0.0, 0.0, -0.994115, -0.0, 0.108327, 0.0, 1000.0, -0.0, -2500.0, 1.0, 'milestone2.x_PEObject24_tArro.lua', 'CharacterControl',0x3e88238f, 0xda4811e8, 0xa664309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject97_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -5239.982513, 0.0, 3881.645932, 1.0, 'milestone2.x_PEObject97_pCar.lua', 'CharacterControl',0x8b333480, 0xe31411e8, 0x876d309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject91_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -9121.462988, 0.0, -2135.505608, 1.0, 'milestone2.x_PEObject91_pCar.lua', 'CharacterControl',0x8115a2d1, 0xe31411e8, 0xbdb5309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject102_pkingTiger",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -7187.785284, 0.0, 7632.362294, 1.0, 'milestone2.x_PEObject102_pkin.lua', 'CharacterControl',0xfb299ea1, 0xe31411e8, 0x88a3309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject94_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -3163.084203, 0.0, -7257.473953, 1.0, 'milestone2.x_PEObject94_pCar.lua', 'CharacterControl',0x85ec5830, 0xe31411e8, 0xb440309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject104_pkingTiger",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -8668.044858, 0.0, -4092.638081, 1.0, 'milestone2.x_PEObject104_pkin.lua', 'CharacterControl',0x011b39de, 0xe31511e8, 0x8ac9309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject90_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -364.869455, 0.0, -3387.908685, 1.0, 'milestone2.x_PEObject90_pCar.lua', 'CharacterControl',0x7f758761, 0xe31411e8, 0x9998309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject13_tArrow",-0.368238, 0.0, 0.929732, 0.0, 0.0, 1.0, -0.0, 0.0, -0.929732, -0.0, -0.368238, 0.0, 1000.0, 0.0, 2500.0, 1.0, 'milestone2.x_PEObject13_tArro.lua', 'CharacterControl',0x3e88238f, 0xda4811e8, 0xa664309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject30_TspotRep",1.0, 0.0, 0.0, 0.0, -0.0, 0.0, 1.0, 0.0, -0.0, -1.0, 0.0, 0.0, -9420.0, 292.633104, -0.0, 1.0, 'milestone2.x_PEObject30_Tspot.lua', 'CharacterControl',0x2ef95f80, 0xda6f11e8, 0x9eb3309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject86_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -1165.671702, 0.0, 5343.133407, 1.0, 'milestone2.x_PEObject86_pCar.lua', 'CharacterControl',0x787cdc5e, 0xe31411e8, 0xa8e8309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject85_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -1205.746931, 0.0, 4686.195055, 1.0, 'milestone2.x_PEObject85_pCar.lua', 'CharacterControl',0x76b49f80, 0xe31411e8, 0x9b01309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject103_pkingTiger",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -10585.647726, 0.0, -4649.515459, 1.0, 'milestone2.x_PEObject103_pkin.lua', 'CharacterControl',0xfcae69de, 0xe31411e8, 0x867c309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject106_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -6170.612484, 0.0, -6216.897325, 1.0, 'milestone2.x_PEObject106_pCar.lua', 'CharacterControl',0x23c82de1, 0xe31511e8, 0xaabb309c, 0x23932def)
+
+LevelLoader.CreateGameObject("PEObject92_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -7640.513219, 0.0, -4095.457262, 1.0, 'milestone2.x_PEObject92_pCar.lua', 'CharacterControl',0x829a9521, 0xe31411e8, 0xb4dc309c, 0x23932def)
+
